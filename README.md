@@ -1,14 +1,4 @@
-## Hi there👋
-
-
-- 🔭 I’m currently 
-- 🌱 
-- 💼 Open to Backend Engineering roles — passionate about building efficient, reliable, and scalable systems.
-- 🛠️ Previous experience in:
-  -   🖥️ Frontend Engineering (2022) — built and deployed interactive UIs.
-  -   🤖 Machine Learning (Part-time, 2024) — explored computer visios,resnet ,model building, inference pipelines.
-
-# 👋 Hi, I'm Nisha
+# Hi there 👋 
 
 - 🔭 I’m currently learning and experimenting with **back-end software engineering** for optimizations, analytics ,performance tuning and scalability.
 - 🌱 Back-end Engineering Experience via hands on learning — 5.2 months (November 2024 - June mid 2025) + ongoing.
