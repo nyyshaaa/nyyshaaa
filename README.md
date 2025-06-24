@@ -1,7 +1,7 @@
 # Hi there 👋 
 
 - 🔭 I’m currently learning and experimenting with **back-end software engineering** for optimizations, analytics ,performance tuning and scalability.
-- 🌱 Back-end Engineering Experience via hands on learning — 5.2 months (November 2024 - June mid 2025) + ongoing.
+- 🌱 Back-end Engineering Experience via hands on learning — 5.5 months (November 2024 - June end 2025) + ongoing.
 - 💡 Passionate about building **efficient, reliable, and secure systems** — with a keen eye on optimizations, observability, and clean architecture.
 - 💼 Actively seeking **Back-End Engineer**, **Python Developer**, or **Software Engineer** roles.
 - 🛠️ Previous experience in:
@@ -26,7 +26,7 @@
 
 ## 📁 Projects Timeline (with GitHub Links)
 
-### 🔹 2024 Nov – 2025 June mid (5.2 months) + ongoing — Back-End Engineering
+### 🔹 2024 Nov – 2025 June end (5.5 months) + ongoing — Back-End Engineering
 
 ####  🌱 Core Projects
 
