@@ -26,7 +26,7 @@
 
 ## 📁 Projects Timeline (with GitHub Links)
 
-### 🔹 2024 Nov – 2025 June(5.2 months) + ongoing — Back-End Engineering
+### 🔹 2024 Nov – 2025 June mid (5.2 months) + ongoing — Back-End Engineering
 
 ####  🌱 Core Projects
 
