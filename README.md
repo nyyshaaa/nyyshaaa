@@ -32,15 +32,16 @@
 
 
 - **URL Shortener (FastAPI,SQLAlchemy)**  
-  A url shortener API to shorten urls (API key authentication and authorization , async processing , basic analytics , midlewares ,caching, unit and integration testing , api response times analysis , benchmarking, monitoring+observability, circuit breaker)
+  A url shortener API to shorten urls (API key authentication and authorization , async processing , basic analytics , midlewares ,caching, unit and integration testing , api response times analysis , benchmarking, 
+  monitoring+observability, circuit breaker)
   [🔗 GitHub Link](https://github.com/nyyshaaa/url-shortener)
 
 - **Phyllonix(FastAPI,Relational DB with necessary JSON fileds,SQLAlchemy)**
   [🔗 GitHub Link](https://github.com/nyyshaaa/phyllonix)
   **Work In progress...**
   
-An ecommerce app for healthy snacks,arts stuff and much more ...
-Current basic functionalities with improvements yet to be done ( DB Design, JWT Auth , Profile uploads with background workers for extra processing..)
+   An ecommerce app for healthy snacks,arts stuff and much more ...
+   Current basic functionalities with improvements yet to be done ( DB Design, JWT Auth , Profile uploads with background workers for extra processing..)
 
 
 
