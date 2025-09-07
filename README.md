@@ -26,18 +26,24 @@
 
 ## 📁 Projects Timeline (with GitHub Links)
 
-### 🔹 2024 Nov – 2025 June end (5.5 months) + ongoing — Back-End Engineering
+### 🔹 2024 Nov – 2025 August end (7.5 months) + ongoing — Back-End Engineering
 
 ####  🌱 Core Projects
 
 
 - **URL Shortener (FastAPI,SQLAlchemy)**  
-  A url shortener API to shorten urls (API key authentication and authorization , async processing , basic analytics , midlewares , unit and integration testing , api response times analysis , benchmarking, monitoring+observability)
+  A url shortener API to shorten urls (API key authentication and authorization , async processing , basic analytics , midlewares ,caching, unit and integration testing , api response times analysis , benchmarking, monitoring+observability, circuit breaker)
   [🔗 GitHub Link](https://github.com/nyyshaaa/url-shortener)
+
+- **Phyllonix(FastAPI,Relational DB with necessary JSON fileds,SQLAlchemy)**
+  [🔗 GitHub Link](https://github.com/nyyshaaa/phyllonix)
+An ecommerce app for healthy snacks,arts stuff and much more ...
+Current basic functionalities with improvements yet to be done ( DB Design, JWT Auth , Profile uploads with background workers for extra processing..)
+**Work In progress...**
 
 
 - **Cool Things App (FastAPI, SQLAlchemy)**  
-  A version-goal marketplace where users create "cool things", set goals, and track them. Features - Databse design,JWT auth, payments test mode(idempotent), async processing...
+  A version-goal marketplace where users create "cool things", set goals, and track them. Features - Databse design,JWT auth, payments test mode(idempotent), image uploads with benchmarking analysis , async processing...
   [🔗 GitHub Link](https://github.com/nyyshaaa/backend-app-complete)
 
 - *Databse Notes(not updated fully)*
