@@ -37,9 +37,11 @@
 
 - **Phyllonix(FastAPI,Relational DB with necessary JSON fileds,SQLAlchemy)**
   [🔗 GitHub Link](https://github.com/nyyshaaa/phyllonix)
+  **Work In progress...**
+  
 An ecommerce app for healthy snacks,arts stuff and much more ...
 Current basic functionalities with improvements yet to be done ( DB Design, JWT Auth , Profile uploads with background workers for extra processing..)
-**Work In progress...**
+
 
 
 - **Cool Things App (FastAPI, SQLAlchemy)**  
