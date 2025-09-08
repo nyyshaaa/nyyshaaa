@@ -40,6 +40,8 @@
   [🔗 GitHub Link](https://github.com/nyyshaaa/phyllonix)
   **Work In progress...**
   
+  Start date -- September 1 2025
+  
    An ecommerce app for healthy snacks,arts stuff and much more ...
    Current basic functionalities with improvements yet to be done ( DB Design, JWT Auth , Profile uploads with background workers for extra processing..)
 
