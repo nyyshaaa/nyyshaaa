@@ -16,8 +16,8 @@
 |------------------|------------------------------------------------------------------|
 | **Languages**     | Python, PostgreSQL, JavaScript                                          |
 | **Frameworks**    | FastAPI,React (past work)       |
-| **Databases**     | PostgreSQL, Dtabase Design & Otpimisations                           |
-| **APIs**          | REST APIs, API optimisations,API performance                    |
+| **Databases**     | PostgreSQL, Database Design & Otpimisations                           |
+| **APIs**          | REST APIs, API optimisations,API performance,API Benchmarking                    |
 | **ORM / DB Tools**| SQLAlchemy, Alembic, ORM                    |
 | **Testing**       | Unit testing,Integration testing,Pytest, HTTPX                                                    |
 | **Monitoring**    | Prometheus, Grafana (to analyse api endpoints latency)                                 |
