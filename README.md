@@ -41,6 +41,7 @@
   **Work In progress...**
   
   **Start date -- September 1 2025**
+  > Building with full security and cleanliness in mind , improvements will be done with progress
   
    An ecommerce app for healthy snacks,arts stuff and much more ...
    Current basic functionalities with improvements yet to be done ( DB Design, JWT Auth , Profile uploads with background workers for extra processing..)
