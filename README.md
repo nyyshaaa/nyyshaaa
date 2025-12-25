@@ -46,7 +46,8 @@
 - *Databse Notes(not updated fully)*
   [🔗 GitHub Link](https://github.com/nyyshaaa/databases-notes)
   
-- *Databse Experiments*
+- *Databse Experiments* --
+
   To analyze query,indexes performance under very high row counts (~100 million) .
   [🔗 GitHub Link](https://github.com/nyyshaaa/backend-learn-optimize)
 
