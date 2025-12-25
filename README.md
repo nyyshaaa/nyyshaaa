@@ -1,7 +1,7 @@
 # Hi there 👋 
 
 - 🔭 I’m currently learning and experimenting with **back-end software engineering** for optimizations, analytics ,performance tuning and scalability.
-- 🌱 Back-end Engineering Experience via hands on learning — 9 months (November 2024 - October end 2025) + ongoing.
+- 🌱 Back-end Engineering Experience via hands on learning — 9.5 months (November 2024 - December end 2025) + ongoing.
 - 💡 Passionate & energetic about building **efficient, reliable, and secure systems** — with a keen eye on optimizations, observability, and clean architecture.
 - 💼 Actively seeking **Back-End Engineer**, **Python Developer**, or **Software Engineer** roles.
 - 🛠️ Previous experience in:
@@ -16,7 +16,7 @@
 |------------------|------------------------------------------------------------------|
 | **Languages**     | Python, PostgreSQL, JavaScript                                          |
 | **Frameworks**    | FastAPI,React (past work)       |
-| **Databases**     | PostgreSQL, Database Design & Otpimisations                           |
+| **Databases**     | Database Design & Query Otpimisations , Database Migrations                      |
 | **APIs**          | REST APIs, API optimisations,API performance,API Benchmarking                    |
 | **ORM / DB Tools**| SQLAlchemy, Alembic, ORM                    |
 | **Testing**       | Unit testing,Integration testing,Pytest, HTTPX                                                    |
@@ -26,35 +26,27 @@
 
 ## 📁 Projects Timeline (with GitHub Links)
 
-### 🔹 2024 Nov – 2025 August end (7.5 months) + ongoing — Back-End Engineering
+### 🔹 2024 Nov – 2025 December end (9.5 months) + ongoing — Back-End Engineering
 
 ####  🌱 Core Projects
 
-
+- **Phyllonix(FastAPI,Relational DB with necessary JSON fileds,SQLAlchemy ORM)**
+   An ecommerce app for healthy snacks,arts stuff and much more ...
+  [🔗 GitHub Link](https://github.com/nyyshaaa/phyllonix)
+  A backend service with concurrency and retry -safe APIs and database operations, idempotent payment workflows with webhooks, scalable database design, caching and rate-limiting strategies,retries and circuit breaker implementation,
+   secure authentication and authorization & device check flows,cursor-based pagination for product pages, and comprehensive integration tests, api and db deployment,efficient error handling and clean logging,
+   eventually consistent queue and worker system(in memory for now) & can be integrated with durable pubsub system with low effort refactors. 
+  
 - **URL Shortener (FastAPI,SQLAlchemy)**  
   A url shortener API to shorten urls (API key authentication and authorization , async processing , basic analytics , midlewares ,caching, unit and integration testing , api response times analysis , benchmarking, 
   monitoring+observability, circuit breaker)
   [🔗 GitHub Link](https://github.com/nyyshaaa/url-shortener)
 
-- **Phyllonix(FastAPI,Relational DB with necessary JSON fileds,SQLAlchemy)**
-  [🔗 GitHub Link](https://github.com/nyyshaaa/phyllonix)
-  **Work In progress...**
-  
-  **Start date -- September 1 2025**
-  > Building with full security and cleanliness in mind , improvements will be done with progress
-  
-   An ecommerce app for healthy snacks,arts stuff and much more ...
-   Current basic functionalities with improvements yet to be done ( DB Design, JWT Auth , Profile uploads with background workers for extra processing..)
-
-
-
-- **Cool Things App (FastAPI, SQLAlchemy)**  
-  A version-goal marketplace where users create "cool things", set goals, and track them. Features - Databse design,JWT auth, payments test mode(idempotent), image uploads with benchmarking analysis , async processing...
-  [🔗 GitHub Link](https://github.com/nyyshaaa/backend-app-complete)
 
 - *Databse Notes(not updated fully)*
   [🔗 GitHub Link](https://github.com/nyyshaaa/databases-notes)
-- *Databse Experiments*
+- *Databse Experiments *
+- To analyze query,indexes performance under very high row counts (~100 million) .
   [🔗 GitHub Link](https://github.com/nyyshaaa/backend-learn-optimize)
 
   
