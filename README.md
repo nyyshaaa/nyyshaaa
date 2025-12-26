@@ -1,12 +1,13 @@
 # Hi there 👋 
 
-- 🔭 I’m currently learning and experimenting with **back-end software engineering** for optimizations, analytics ,performance tuning and scalability.
+- 💡 Backend-focused engineer with hands-on experience building **clean, optimised ,secure & reliable backend systems from the ground up**.
+I enjoy thinking critically and deeply about system design, data modeling, correctness, easier long-term scalability and maintainability .
+🌱 Designed an **end-to-end backend system** with a correctness-first approach, focusing on data integrity, security, and intentional data modeling to achieve query efficiency and performance optimizations at the architectural level.
 - 🌱 Back-end Engineering Experience via hands on learning — 9.5 months (November 2024 - December end 2025) + ongoing.
-- 💡 Passionate & energetic about building **efficient, reliable, and secure systems** — with a keen eye on optimizations, observability, and clean architecture.
 - 💼 Actively seeking **Back-End Engineer**, **Python Developer**, or **Software Engineer** roles.
 - 🛠️ Previous experience in:
   - 🖥️ **Frontend Engineering** 5 months — built and deployed interactive UIs.
-  - 🤖 **Machine Learning** 4 months(Part-time, 2024) — *explored* computer vision,state of art cnn architechtures,improved image gradients to enhance classification metrics, model building,model training.
+  - 🤖 **Machine Learning** 4 months(Part-time, 2024) — *explored* computer vision,state of art cnn architechtures,improved image gradients to improve model predictions and classification metrics .
 
 ---
 
