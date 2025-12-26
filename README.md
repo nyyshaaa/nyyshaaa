@@ -5,6 +5,7 @@
 - 💡 I enjoy thinking critically and deeply about system design, data modeling, correctness, easier long-term scalability and maintainability .
 
 🌱 Designed an **end-to-end backend system** with a correctness-first approach, focusing on data integrity, security, and intentional data modeling to achieve query efficiency and performance optimizations at the architectural level.
+https://github.com/nyyshaaa/phyllonix
 - 🌱 Back-end Engineering Experience via hands on learning — 9.5 months (November 2024 - December end 2025) + ongoing.
 - 💼 Actively seeking **Back-End Engineer**, **Python Developer**, or **Software Engineer** roles.
   
