@@ -10,7 +10,7 @@ https://github.com/nyyshaaa/phyllonix
 - 💼 Actively seeking **Back-End Engineer**, **Python Developer**, or **Software Engineer** roles.
   
 - 🛠️ Previous experience in:
-  - 🖥️ **Frontend Engineering** 5 months — built and deployed interactive UIs.
+  - 🖥️ **Frontend Engineering** 4 months — built and deployed interactive UIs.
   - 🤖 **Machine Learning** 4 months(Part-time, 2024) — *explored* computer vision,state of art cnn architechtures,improved image gradients to improve model predictions and classification metrics .
 
 ---
