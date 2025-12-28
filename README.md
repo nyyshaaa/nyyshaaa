@@ -36,7 +36,7 @@ https://github.com/nyyshaaa/phyllonix
 ####  🌱 Core Projects
 
 - **Phyllonix(FastAPI,Relational DB with necessary JSON fileds,SQLAlchemy ORM)**
-   An ecommerce app for healthy snacks,arts stuff and much more ...
+   An ecommerce app for healthy snacks,arts stuff ...
   [🔗 GitHub Link](https://github.com/nyyshaaa/phyllonix)
   
   A backend service with concurrency and retry -safe APIs and database operations, idempotent payment workflows with webhooks, scalable database design, caching and rate-limiting strategies,retries and circuit breaker implementation,
@@ -44,8 +44,8 @@ https://github.com/nyyshaaa/phyllonix
    eventually consistent queue and worker system(in memory for now) & can be integrated with durable pubsub system with low effort refactors. 
   
 - **URL Shortener (FastAPI,SQLAlchemy)**  
-  A url shortener API to shorten urls (API key authentication and authorization , async processing , basic analytics , midlewares ,caching, unit and integration testing , api response times analysis , benchmarking, 
-  monitoring+observability, circuit breaker)
+  A url shortener API to shorten urls (API key authentication and authorization ,basic analytics , midlewares ,caching, unit and integration testing , api response times analysis , benchmarking, 
+  monitoring+observability, circuit breaker , API versioning)
   [🔗 GitHub Link](https://github.com/nyyshaaa/url-shortener)
 
 
