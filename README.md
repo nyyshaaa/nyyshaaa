@@ -6,12 +6,14 @@
 
 🌱 Designed an **end-to-end backend system** with a correctness-first approach, focusing on data integrity, security, and intentional data modeling to achieve query efficiency and performance optimizations at the architectural level.
 https://github.com/nyyshaaa/phyllonix
-- 🌱 Back-end Engineering Experience via hands on learning — 9.5 months (November 2024 - December end 2025) + ongoing.
+- 🌱 Back-end Engineering Experience via hands on learning — 9.5 months (November 2024 - December end 2025) + ongoing(on pause from feb 2026).
 - 💼 Actively seeking **Back-End Engineer**, **Python Developer**, or **Software Engineer** roles.
   
 - 🛠️ Previous experience in:
   - 🖥️ **Frontend Engineering** 4 months — built and deployed interactive UIs.
   - 🤖 **Machine Learning** 4 months(Part-time, 2024) — *explored* computer vision,state of art cnn architechtures,improved image gradients to improve model predictions and classification metrics .
+ 
+**On pause from February 2026 as not getting replies at all for backend internships & backend full times & even relevant roles .  Working for govt exams for this year . I guess it cannot work without college degrees and recommendations or it will take lots of time like years. I will try to choose different path for later bioelectricity and prosthectis research via govt jobs .**
 
 ---
 
