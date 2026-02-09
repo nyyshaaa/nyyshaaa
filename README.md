@@ -13,7 +13,7 @@ https://github.com/nyyshaaa/phyllonix
   - 🖥️ **Frontend Engineering** 4 months — built and deployed interactive UIs.
   - 🤖 **Machine Learning** 4 months(Part-time, 2024) — *explored* computer vision,state of art cnn architechtures,improved image gradients to improve model predictions and classification metrics .
  
-**On pause from February 2026 as not getting replies at all for backend internships & backend full times & even relevant roles .  Working for govt exams for this year . I guess it cannot work without college degrees and recommendations or it will take lots of time like years. I will try to choose different path for later bioelectricity and prosthectis research via govt jobs .**
+**On pause from February 2026 as not getting replies at all for backend internships & backend full times & even relevant roles .  Working for govt exams for this year . I guess it cannot work without college degrees and recommendations or it will take lots of time like years. I will start with a different path as first start, start building strength again , do possible movement activities and keep improving and hopefully later in approx 8-10 years do bioelectricity plus prosthetics , restart parkour again , start running again and do lots of other forms of intense and long duration athletics **
 
 ---
 
